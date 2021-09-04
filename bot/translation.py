@@ -5,12 +5,12 @@
 class Translation(object):
     
     START_TEXT = """<b>Hey {}!!</b>
-<i>Am Just A Advance Auto Filter Bot....😉
+<i>കടന്ന് വര്യാ.....നോക്കി നിന്ന് സമയം കളയണ്ട...നൊമിനെ വേറെ ഗ്രൂപ്പിൽ ആഡ് ചെയ്യാൻ കഴിയില്ല
 
-Just Add Me To Your Group And Channel And Connect Them And See My Pevers 🔥🔥😝
+Support us 🔥 @Cinemapyscho @GKmoviesdownload6
 
 For More Details Click Help Button Below..
-@CrazyBotsz
+@Cinemapyscho @GKmoviesdownload6
 </i>"""    
     
     HELP_TEXT = """
@@ -43,7 +43,10 @@ For More Details Click Help Button Below..
             
             -> <code>Status</code> - Button Will Shows The Stats Of Your Channel
             
-@CrazyBotsz
+@Cinemapyscho @GKmoviesdownload6
+
+
+
 """
     
     ABOUT_TEXT = """<b>➥ Name</b> : <code> Auto Filter Bot</code>
